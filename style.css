@@ -1,0 +1,62 @@
+.black-color{
+             color:black
+             }
+             
+ body{
+      font-family:sans-serif;
+      color:purple;
+      line-height:26px;
+      background-color:orange;
+      }
+.half-width{
+            width:100%;
+            float:left;
+            }
+.side-img{
+          width:50%;
+          padding-left:0%;
+         margin:10px;
+         background:black;
+         hight:15px;
+}
+.primary-btn{
+             color:white;
+             background-color:lime;
+             padding:13px 42px 13px 42px;
+             border-radius:20px;
+             text-decoration:none;
+             }
+h1{
+   font-size:1.9em;
+}
+.container{
+          padding-left:0%;
+          display:inline-block;
+}
+.experience{
+            padding:10px;
+            margin:30px;
+            background-color:red;
+            border-radius:20px;
+            font-family:sans-serif;
+            color:orange;
+            font-size:20px;
+}
+.experiance-item{
+                 padding:5px;
+                 
+}
+footer{
+      background:red;
+      font-family:sans-serif;
+      color:pink;
+      line-height:50px;
+      margin:10px;
+      border-radius:20px;
+      padding-left:5px;
+      font-size:20px;
+}
+.hr{background-color:black;
+    
+
+}
